@@ -1,0 +1,156 @@
+{
+	"categories": [
+		{
+			"name": "abstract_nonphoto",
+			"score": 0.2421875,
+			"detail": null
+		},
+		{
+			"name": "people_",
+			"score": 0.3828125,
+			"detail": null
+		}
+	],
+	"adult": {
+		"isAdultContent": false,
+		"isRacyContent": false,
+		"isGoryContent": false,
+		"adultScore": 0.5007132887840271,
+		"racyScore": 0.7393465638160706,
+		"goreScore": 0.005753791891038418
+	},
+	"color": {
+		"dominantColorForeground": "White",
+		"dominantColorBackground": "White",
+		"dominantColors": [
+			"White",
+			"Brown"
+		],
+		"accentColor": "382316",
+		"isBWImg": false
+	},
+	"imageType": {
+		"clipArtType": 0,
+		"lineDrawingType": 0
+	},
+	"tags": [
+		{
+			"name": "sketch",
+			"confidence": 0.9169143438339233,
+			"hint": null
+		},
+		{
+			"name": "woman",
+			"confidence": 0.915003776550293,
+			"hint": null
+		},
+		{
+			"name": "drawing",
+			"confidence": 0.9132273197174072,
+			"hint": null
+		},
+		{
+			"name": "person",
+			"confidence": 0.8524974584579468,
+			"hint": null
+		},
+		{
+			"name": "art",
+			"confidence": 0.8309036493301392,
+			"hint": null
+		},
+		{
+			"name": "illustration",
+			"confidence": 0.5170917510986328,
+			"hint": null
+		}
+	],
+	"description": {
+		"tags": [
+			"text",
+			"different",
+			"several"
+		],
+		"captions": [
+			{
+				"text": "a group of drawings",
+				"confidence": 0.30852970480918887
+			}
+		]
+	},
+	"faces": [],
+	"objects": [
+		{
+			"rectangle": {
+				"x": 478,
+				"y": 116,
+				"w": 101,
+				"h": 269
+			},
+			"object": "person",
+			"confidence": 0.683,
+			"parent": null
+		},
+		{
+			"rectangle": {
+				"x": 23,
+				"y": 193,
+				"w": 124,
+				"h": 194
+			},
+			"object": "primate",
+			"confidence": 0.531,
+			"parent": {
+				"object": "mammal",
+				"confidence": 0.783,
+				"parent": {
+					"object": "animal",
+					"confidence": 0.785,
+					"parent": null
+				}
+			}
+		},
+		{
+			"rectangle": {
+				"x": 130,
+				"y": 166,
+				"w": 114,
+				"h": 223
+			},
+			"object": "primate",
+			"confidence": 0.517,
+			"parent": {
+				"object": "mammal",
+				"confidence": 0.74,
+				"parent": {
+					"object": "animal",
+					"confidence": 0.74,
+					"parent": null
+				}
+			}
+		},
+		{
+			"rectangle": {
+				"x": 224,
+				"y": 142,
+				"w": 155,
+				"h": 246
+			},
+			"object": "mammal",
+			"confidence": 0.622,
+			"parent": {
+				"object": "animal",
+				"confidence": 0.624,
+				"parent": null
+			}
+		}
+	],
+	"brands": [],
+	"requestId": "8ac8d3a7-3f99-4e9a-b3c4-f789eaca7f27",
+	"metadata": {
+		"width": 800,
+		"height": 434,
+		"format": "Jpeg"
+	},
+	"modelVersion": "2021-05-01"
+}

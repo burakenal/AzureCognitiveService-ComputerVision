@@ -1,0 +1,160 @@
+{
+	"categories": [
+		{
+			"name": "animal_dog",
+			"score": 0.99609375,
+			"detail": null
+		}
+	],
+	"adult": {
+		"isAdultContent": false,
+		"isRacyContent": false,
+		"isGoryContent": false,
+		"adultScore": 0.0006656267214566469,
+		"racyScore": 0.0016316523542627693,
+		"goreScore": 0.0007828648085705936
+	},
+	"color": {
+		"dominantColorForeground": "White",
+		"dominantColorBackground": "Grey",
+		"dominantColors": [
+			"Grey",
+			"Green"
+		],
+		"accentColor": "A36D28",
+		"isBWImg": false
+	},
+	"imageType": {
+		"clipArtType": 0,
+		"lineDrawingType": 0
+	},
+	"tags": [
+		{
+			"name": "grass",
+			"confidence": 0.9957543611526489,
+			"hint": null
+		},
+		{
+			"name": "dog",
+			"confidence": 0.9939157962799072,
+			"hint": null
+		},
+		{
+			"name": "mammal",
+			"confidence": 0.9928356409072876,
+			"hint": null
+		},
+		{
+			"name": "animal",
+			"confidence": 0.9918001890182495,
+			"hint": null
+		},
+		{
+			"name": "dog breed",
+			"confidence": 0.9890419244766235,
+			"hint": null
+		},
+		{
+			"name": "pet",
+			"confidence": 0.974603533744812,
+			"hint": null
+		},
+		{
+			"name": "outdoor",
+			"confidence": 0.969241738319397,
+			"hint": null
+		},
+		{
+			"name": "companion dog",
+			"confidence": 0.906731367111206,
+			"hint": null
+		},
+		{
+			"name": "small greek domestic dog",
+			"confidence": 0.8965123891830444,
+			"hint": null
+		},
+		{
+			"name": "golden retriever",
+			"confidence": 0.8877675533294678,
+			"hint": null
+		},
+		{
+			"name": "labrador retriever",
+			"confidence": 0.8746421337127686,
+			"hint": null
+		},
+		{
+			"name": "puppy",
+			"confidence": 0.872604250907898,
+			"hint": null
+		},
+		{
+			"name": "ancient dog breeds",
+			"confidence": 0.8508287668228149,
+			"hint": null
+		},
+		{
+			"name": "field",
+			"confidence": 0.8017748594284058,
+			"hint": null
+		},
+		{
+			"name": "retriever",
+			"confidence": 0.6837497353553772,
+			"hint": null
+		},
+		{
+			"name": "brown",
+			"confidence": 0.6581960916519165,
+			"hint": null
+		}
+	],
+	"description": {
+		"tags": [
+			"grass",
+			"dog",
+			"outdoor",
+			"animal",
+			"mammal",
+			"laying",
+			"tan"
+		],
+		"captions": [
+			{
+				"text": "a small dog in the grass",
+				"confidence": 0.44371092319488528
+			}
+		]
+	},
+	"faces": [],
+	"objects": [
+		{
+			"rectangle": {
+				"x": 78,
+				"y": 231,
+				"w": 664,
+				"h": 906
+			},
+			"object": "dog",
+			"confidence": 0.903,
+			"parent": {
+				"object": "mammal",
+				"confidence": 0.908,
+				"parent": {
+					"object": "animal",
+					"confidence": 0.909,
+					"parent": null
+				}
+			}
+		}
+	],
+	"brands": [],
+	"requestId": "1b4aa2ac-f7d2-42b9-8515-b3db90f40d13",
+	"metadata": {
+		"width": 1295,
+		"height": 1155,
+		"format": "Png"
+	},
+	"modelVersion": "2021-05-01"
+}
